@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zcerveny
 - 👀 I’m interested in ... learning and advancing my personal portfolio.
-- 🌱 I’m currently learning ...Network and Infrastructure Administrate
+- 🌱 I’m currently learning ...Networking and Infrastructure Administration
 - 💞️ I’m looking to collaborate on ... what ever floats your boat.  I'm pretty intuitive but cant read minds..
 - 📫 How to reach me ... the web.
 
